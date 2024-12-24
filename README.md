@@ -21,7 +21,7 @@ A **Streamlit-based chatbot application** that allows users to interact with and
 ## 📦 Installation
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/Chat_with_multiple_PDF.git
+   https://github.com/sango-07/Chat_with_multiple_PDF.git
    cd Chat_with_multiple_PDF
    ```
 2. Install dependencies:
