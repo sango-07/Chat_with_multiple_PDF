@@ -13,6 +13,7 @@ from langchain.chains import ConversationalRetrievalChain
 from langchain.prompts import PromptTemplate
 from sentence_transformers import SentenceTransformer, util
 from langchain_openai import AzureOpenAIEmbeddings
+import pandas as pd
 from langchain_openai import OpenAIEmbeddings
 from langchain_community.embeddings.fastembed import FastEmbedEmbeddings
 from langchain_openai import ChatOpenAI
